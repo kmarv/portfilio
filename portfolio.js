@@ -212,7 +212,7 @@ export const seoData = {
   description: "A passionate  Web Developer and Blockchain Developer.",
   author: "Kaaya Marvin",
   image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  url: "#",
   keywords: [
     "Kaaya",
     "Kaaya marvin",
